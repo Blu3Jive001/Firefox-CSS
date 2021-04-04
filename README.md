@@ -20,3 +20,10 @@ After that copy & paste the contents of the files in the stylesheets folder over
 ## Screenshots
 
 ### Browser
+
+![oof](https://github.com/Blu3Jive001/Firefox-CSS/blob/master/screenshots/browser.png)
+
+![oof1](https://github.com/Blu3Jive001/Firefox-CSS/blob/master/screenshots/github.png)
+
+## Acknowledgments
+[firefox-review](https://github.com/fellowish/firefox-review)
