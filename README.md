@@ -23,7 +23,13 @@ After that copy & paste the contents of the files in the stylesheets folder over
 
 ![oof](https://github.com/Blu3Jive001/Firefox-CSS/blob/master/screenshots/browser.png)
 
+### Github
+
 ![oof1](https://github.com/Blu3Jive001/Firefox-CSS/blob/master/screenshots/github.png)
+
+### Discord
+
+![oof2](https://github.com/Blu3Jive001/Firefox-CSS/blob/master/screenshots/discord.png)
 
 ## Acknowledgments
 [firefox-review](https://github.com/fellowish/firefox-review)
