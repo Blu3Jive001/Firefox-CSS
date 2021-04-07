@@ -35,7 +35,7 @@ After that copy & paste the contents of the files in the stylesheets folder over
 
 ### Github
 
-![oof1](https://github.com/Blu3Jive001/Firefox-CSS/blob/master/screenshots/github.png)
+![oof1](https://github.com/Blu3Jive001/Firefox-CSS/blob/master/screenshots/Github.png)
 
 ### Discord
 
