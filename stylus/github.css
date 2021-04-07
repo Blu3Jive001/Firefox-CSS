@@ -10,61 +10,61 @@
 @supportURL   https://github.com/brettm12345/github-moonlight/issues
 @updateURL    https://github.com/brettm12345/github-moonlight/raw/master/github.user.css
 
-@var color aqua "Aqua" #bac8ef
-@var color blue "Blue" #a3b8ef
-@var color blue-dark "Blue Dark" #7988af
-@var color calendar "Calendar" #97bfab
-@var color cyan "Cyan" #9ce5c0
-@var color cyan-alt "Cyan Alt" #c7e5d6
-@var color green "Green" #7ed491
-@var color indigo "Indigo" #ccaced
-@var color orange "Orange" #fbdf90
-@var color pink "Pink" #fca2aa
-@var color purple "Purple" #d7c1ed
-@var color red "Red" #ff5370
-@var color red-alt "Red Alt" #FF98A4
-@var color teal "Teal" #a5d4af
-@var color yellow "Yellow" #fbeab9
-@var color text-dark "Text Dark" #d8dee9
-@var color text-faded "Text Faded" #d8dee9
-@var color text-gray "Text Gray" #e5e9f0
-@var color text-light "Text Light" #eceff4
-@var color text-paragraph "Text Paragraph" #e5e9f0
-@var color text-placeholder "Text Placeholder" #e5e9f0
-@var color text-primary "Text Primary" #eceff4
-@var color text-secondary "Text Secondary" #e5e9f0
+@var color aqua "Aqua" #A3B8EF
+@var color blue "Blue" #8090BC
+@var color blue-dark "Blue Dark" #6E7DA2
+@var color calendar "Calendar" #9CE5C0
+@var color cyan "Cyan" #A3B8EF
+@var color cyan-alt "Cyan Alt" #C7E5D6
+@var color green "Green" #7ED491
+@var color indigo "Indigo" #7d8eba
+@var color orange "Orange" #F9929B
+@var color pink "Pink" #FCA2AA
+@var color purple "Purple" #CCACED
+@var color red "Red" #F9929B
+@var color red-alt "Red Alt" #FCA2AA
+@var color teal "Teal" #9CE5C0
+@var color yellow "Yellow" #FBDF90
+@var color text-dark "Text Dark" #828bb8
+@var color text-faded "Text Faded" #828bb8ed
+@var color text-gray "Text Gray" #a9b8e8
+@var color text-light "Text Light" #EAEAEA
+@var color text-paragraph "Text Paragraph" #BAC8EF
+@var color text-placeholder "Text Placeholder" #c8d3f5aa
+@var color text-primary "Text Primary" #c8d3f5
+@var color text-secondary "Text Secondary" #b4c2f0
 @var color scrollbar-thumb "Scrollbar Thumb" #828bb830
-@var color scrollbar-track "Scrollbar Track" #1b1d2c
-@var color selection-bg "Selection Bg" #3b4b58
-@var color selection-fg "Selection Fg" #ffffff
+@var color scrollbar-track "Scrollbar Track" #1A2026
+@var color selection-bg "Selection Bg" #A3B8EF
+@var color selection-fg "Selection Fg" #FFFFFF
 @var color aqua-desaturated "Aqua Desaturated" #7AB5D0
-@var color blue-desaturated "Blue Desaturated" #A1B5E0
-@var color blue-dark-desaturated "Blue Dark Desaturated" #7288C2
-@var color cyan-desaturated "Cyan Desaturated" #A3D1DF
-@var color cyan-alt-desaturated "Cyan Alt Desaturated" #C5E8E7
-@var color green-desaturated "Green Desaturated" #BFD1A4
-@var color indigo-desaturated "Indigo Desaturated" #8F96BA
-@var color orange-desaturated "Orange Desaturated" #D7A486
-@var color pink-desaturated "Pink Desaturated" #E7BCDE
-@var color purple-desaturated "Purple Desaturated" #C7B0E1
-@var color red-desaturated "Red Desaturated" #D47E8C
-@var color red-alt-desaturated "Red Alt Desaturated" #E5B2B8
-@var color teal-desaturated "Teal Desaturated" #71B4A8
-@var color yellow-desaturated "Yellow Desaturated" #DDC199
-@var color aqua-light "Aqua Light" #70CFFB
-@var color blue-light "Blue Light" #A8C4FF
-@var color blue-dark-light "Blue Dark Light" #658BEE
-@var color cyan-light "Cyan Light" #ACEAFD
-@var color cyan-alt-light "Cyan Alt Light" #DCFCFC
-@var color green-light "Green Light" #D3EEAC
-@var color indigo-light "Indigo Light" #929ED8
-@var color orange-light "Orange Light" #FFAF81
-@var color pink-light "Pink Light" #FDD0F4
-@var color purple-light "Purple Light" #DABDFB
-@var color red-light "Red Light" #FF758C
-@var color red-alt-light "Red Alt Light" #FFC1C8
-@var color teal-light "Teal Light" #67DCC7
-@var color yellow-light "Yellow Light" #FFD69C
+@var color blue-desaturated "Blue Desaturated" #BAC8EF
+@var color blue-dark-desaturated "Blue Dark Desaturated" #A3B8EF
+@var color cyan-desaturated "Cyan Desaturated" #BAC8EF
+@var color cyan-alt-desaturated "Cyan Alt Desaturated" #ccd5f0
+@var color green-desaturated "Green Desaturated" #FBEAB9
+@var color indigo-desaturated "Indigo Desaturated" #BAC8EF
+@var color orange-desaturated "Orange Desaturated" #FCA2AA
+@var color pink-desaturated "Pink Desaturated" #D7C1ED
+@var color purple-desaturated "Purple Desaturated" #D7C1ED
+@var color red-desaturated "Red Desaturated" #D7C1ED
+@var color red-alt-desaturated "Red Alt Desaturated" #D7C1ED
+@var color teal-desaturated "Teal Desaturated" #9CE5C0
+@var color yellow-desaturated "Yellow Desaturated" #FBEAB9
+@var color aqua-light "Aqua Light" #BAC8EF
+@var color blue-light "Blue Light" #BAC8EF
+@var color blue-dark-light "Blue Dark Light" #A3B8EF
+@var color cyan-light "Cyan Light" #BAC8EF
+@var color cyan-alt-light "Cyan Alt Light" #C6CDFF
+@var color green-light "Green Light" #FBEAB9
+@var color indigo-light "Indigo Light" #A3B8EF
+@var color orange-light "Orange Light" #FCA2AA
+@var color pink-light "Pink Light" #D7C1ED
+@var color purple-light "Purple Light" #D7C1ED
+@var color red-light "Red Light" #F9929B
+@var color red-alt-light "Red Alt Light" #FCA2AA
+@var color teal-light "Teal Light" #9CE5C0
+@var color yellow-light "Yellow Light" #FBDF90
 @var color aqua-transparent "Aqua Transparent" #50C4FA33
 @var color blue-transparent "Blue Transparent" #82aaff33
 @var color blue-dark-transparent "Blue Dark Transparent" #4976eb33
@@ -74,20 +74,20 @@
 @var color indigo-transparent "Indigo Transparent" #7a88cf33
 @var color orange-transparent "Orange Transparent" #ff995e33
 @var color pink-transparent "Pink Transparent" #fca7ea33
-@var color purple-transparent "Purple Transparent" #c597f911
+@var color purple-transparent "Purple Transparent" #c597f933
 @var color red-transparent "Red Transparent" #ff537033
 @var color red-alt-transparent "Red Alt Transparent" #FF98A433
-@var color teal-transparent "Teal Transparent" #3b4b5830
+@var color teal-transparent "Teal Transparent" #4fd6be33
 @var color yellow-transparent "Yellow Transparent" #ffc77733
-@var color base-1 "Base 1" #29343d
-@var color base-2 "Base 2" #1a2026
-@var color base-3 "Base 3" #29343d
-@var color base-4 "Base 4" #1a2026
-@var color base-5 "Base 5" #29343d
-@var color base-6 "Base 6" #3b4b58
-@var color base-7 "Base 7" #07667855
-@var color base-8 "Base 8" #383e5c
-@var color base-9 "Base 9" #444a73
+@var color base-1 "Base 1" #1A2026
+@var color base-2 "Base 2" #1A2026
+@var color base-3 "Base 3" #1d242b
+@var color base-4 "Base 4" #2e3142
+@var color base-5 "Base 5" #29343D
+@var color base-6 "Base 6" #29343D
+@var color base-7 "Base 7" #29343D
+@var color base-8 "Base 8" #3B4B58
+@var color base-9 "Base 9" #3B4B58
 @var text ui-font-family "Ui Font Family" 'Inter V','Inter',sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji
 @var text ui-font-size "Ui Font Size" 14px
 @var text ui-font-weight "Ui Font Weight" 400
