@@ -166,3 +166,9 @@ html[lwt-newtab-brighttext] {--in-content-page-background: var(--dark_color1) !i
   .search-handoff-button{ background-color: rgba(100,100,100,0.1) !important; }
   .fake-textbox{ color: rgb(26, 32, 38) !important } 
 }
+
+/* About:Addons color fix */
+@-moz-document url-prefix(moz-extension://), url-prefix(about:addons) {
+.inline-options-stack {background-color: #000 !important;}
+label,p,h1,h2,legend,th,pre,span input,span button,label input {color: #fff;}
+}
