@@ -1,5 +1,7 @@
 # Firefox-CSS
 
+### CSS is currently out of date, and only working on the last version of Firefox. Please hold while the code is updated
+
 This repository holds my custom css for Firefox and other websites (with the stylus extension). This code is not 100% mine. Some of it came from JavaCafe01 and other bits from MrotherGuy.
 
 My css is messy, if you find a problem and figure out how to improve my code, please do!
